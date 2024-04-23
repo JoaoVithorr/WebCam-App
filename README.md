@@ -1,2 +1,3 @@
 ### WebCam App
-Using the library:
+A webcam app using the library:
+* cv2
